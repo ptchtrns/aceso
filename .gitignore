@@ -1,0 +1,5 @@
+# Ignore for MacOS
+.DS_Store
+
+# Ignore data
+app/history.json
