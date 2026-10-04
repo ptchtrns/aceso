@@ -1,3 +1,5 @@
+This was uploaded on github without preserving the history of commits. We worked on this project with [Akseli Hyvönen](https://github.com/AkseliHyv) and [Miro Vartiala](https://github.com/MiroVart) as part of studies at Metropolia.
+
 # Aceso
 
 A MicroPython firmware for heart rate measurement device written in MicroPython. Aceso is a heart rate variability (HRV) measurement device that utilizes photoplethysmography (PPG). The device is built around a Raspberry Pi Pico W microcontroller paired with a Crowtail Pulse Sensor v2.0 for PPG signal detection, an SSD1306 OLED display for the user interface, and a rotary encoder as well as some buttons for navigation.
